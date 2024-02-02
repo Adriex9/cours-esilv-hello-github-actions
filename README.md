@@ -8,7 +8,7 @@
 -->
 
 
-_Create a GitHub Action and use it in a workflow._ oo
+_Create a GitHub Action and use it in a workflow._ oooo
 
 <!--
   <<< Author notes: Step 5 >>>
